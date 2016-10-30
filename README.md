@@ -1,4 +1,5 @@
-# java
+# Probability_and_Statistics
+
 This is a java homework in Fu-Jen University,which is about Probability and Statistics.<br>
 If you have more efficiently solution , welcome to tell me. <br>
 
